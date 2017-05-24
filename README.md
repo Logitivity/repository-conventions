@@ -1,6 +1,6 @@
-#Logitivity Repository Conventions
+# Logitivity Repository Conventions
 
-##Naming
+## Naming
 
 The naming of repositories is simple and falls under two categories.
 
